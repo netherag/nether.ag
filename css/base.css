@@ -13,7 +13,7 @@ body {
 	font-family: 'Barlow', Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	min-height: 100vh;
-	color: #57585c;
+	color: #1e1e1e;
 	color: var(--color-text);
 	background-color: #000;
 	background-color: var(--color-bg);

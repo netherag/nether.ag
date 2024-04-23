@@ -2,8 +2,7 @@
 // Font Import
 //-------------------------------------------------------------------------------
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,500');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&family=Rubik:wght@300..900&display=swap');
 
 //-------------------------------------------------------------------------------
 // Variables
@@ -43,9 +42,11 @@ html {
 }
 body.nether {
 	height: 100vh;
-	background-color: $color-background; 
-	font-family: 'Roboto', sans-serif;
-	font-weight: 500;
+	background-color: $color-background;
+	font-family: "Rubik", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
 	font-size: 45px;
 	line-height: 60px;
 	letter-spacing: -0.5px;
